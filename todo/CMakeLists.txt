@@ -70,9 +70,9 @@ juce_add_plugin(
   VERSION
     0.0.0
   COMPANY_NAME
-    "VOID RECORDINGS"
+    "GLITCHD"
   PLUGIN_MANUFACTURER_CODE
-    Glth
+    Gltd
   PLUGIN_CODE
     Dstr
   FORMATS
