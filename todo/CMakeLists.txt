@@ -107,7 +107,8 @@ juce_add_binary_data(tremolo_plugin_assets
   SOURCES
     assets/Background.png
     assets/Logo.png
-    assets/HindMadurai-Medium.ttf
+    assets/Inter-Bold.ttf
+    assets/Inter-Medium.ttf
 )
 
 add_library(tremolo::tremolo_plugin_assets ALIAS tremolo_plugin_assets)
